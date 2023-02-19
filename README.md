@@ -6,13 +6,12 @@ Color Coordinate Tunning (CCT) algorithm was a new approach proposed by VC Lab, 
 
 ### Color Coordinates Rotation
 
-<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Color-coordinates-rotation.png " width="390" height="390"> <img src= "https://github.com/abbassi007/CCT_for_JPEG/blob/master/data%20distribution%20graph.png" width="510" height="400">
+<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Color-coordinates-rotation.png " width="370" height="370"><img src= "https://github.com/abbassi007/CCT_for_JPEG/blob/master/data%20distribution%20graph.png" width="490" height="370">
 ### Results
-<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Cartoon.png" width ="280" height ="280"><img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Chilli.png" width ="280" height ="280">
-<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Colors.png" width ="280" height ="280">
-<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/House.png" width ="280" height ="280">
-<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Map.png" width ="280" height ="280">
-<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Plane.png" width ="280" height ="280">
+<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Cartoon.png" width ="270" height ="280"><img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Chilli.png" width ="270" height ="280"><img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Colors.png" width ="270" height ="280">
+<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/House.png" width ="270" height ="280">
+<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Map.png" width ="270" height ="280">
+<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Plane.png" width ="270" height ="280">
 <p align = "center">
-<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Sailboat.png" width ="280" height ="280" align>
+<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Results/Sailboat.png" width ="270" height ="280" align>
  </p>
