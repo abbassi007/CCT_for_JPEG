@@ -6,4 +6,4 @@ Color Coordinate Tunning (CCT) algorithm was a new approach proposed by VC Lab, 
 
 ### Color Coordinates Rotation
 
-<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Color-coordinates-rotation.png " width="500" height="500">
+<img src="https://github.com/abbassi007/CCT_for_JPEG/blob/master/Color-coordinates-rotation.png " width="400" height="400"> <img src= "https://github.com/abbassi007/CCT_for_JPEG/blob/master/data%20distribution%20graph.png" width="600" height="400">
